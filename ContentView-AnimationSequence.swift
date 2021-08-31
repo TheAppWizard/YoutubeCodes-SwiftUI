@@ -41,7 +41,7 @@ var images : [UIImage]! = [
     UIImage(named: "image7")!,
     UIImage(named: "image8")!,
     UIImage(named: "image9")!,
-    UIImage(named: "image10")!,
+    UIImage(named: "image10")!
 
 ]
 
